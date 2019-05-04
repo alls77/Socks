@@ -1,0 +1,12 @@
+org\courses\web\Program.class
+org\courses\web\soap\IMaterialService.class
+org\courses\web\rest\StorageService.class
+org\courses\web\soap\ITypeService.class
+org\courses\web\soap\TypeService.class
+org\courses\web\SpringConfig.class
+org\courses\web\soap\ISocksService.class
+org\courses\web\soap\ManufactureService.class
+org\courses\web\soap\MaterialService.class
+org\courses\web\rest\TestService.class
+org\courses\web\soap\SocksService.class
+org\courses\web\soap\IManufactureService.class

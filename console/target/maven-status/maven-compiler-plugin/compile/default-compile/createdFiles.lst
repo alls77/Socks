@@ -1,0 +1,10 @@
+org\courses\cli\commands\jdbc\ConnectCommand.class
+org\courses\cli\commands\Command.class
+org\courses\cli\commands\jdbc\CrudCommand.class
+org\courses\cli\commands\jdbc\ManufactureCommand.class
+org\courses\cli\Program.class
+org\courses\cli\commands\CommandFormatException.class
+org\courses\cli\commands\jdbc\TypeCommand.class
+org\courses\cli\SpringConfig.class
+org\courses\cli\commands\jdbc\MaterialCommand.class
+org\courses\cli\commands\jdbc\SocksCommand.class
